@@ -1,0 +1,5 @@
+name: "cartoon_mv"
+title: "纯代码二维卡通 MV"
+description: "用纯代码（SVG+GSAP+Puppeteer+FFmpeg）制作二维卡通 MV 或剧情短片：默认 16:9 横屏，多视角多机位电影运镜，歌词驱动语义分镜，时长随音频或文案自动确定。"
+category: "Work and knowledge"
+include_in_prompt: true
